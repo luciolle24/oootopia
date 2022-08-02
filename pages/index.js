@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 const Box1 = styled.div`
   display: flex;
   flex-direction: row;
