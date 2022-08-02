@@ -1,0 +1,39 @@
+
+/* CSS */
+.specopsbutton {
+  align-items: center;
+  background-image: linear-gradient(144deg,#fcc56cbc, #4ac1b796 50%,#1366afa1);
+  border: 0;
+  border-radius: 25px;
+  box-shadow:  #1366afa1 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.specopsbutton:active {
+    outline: 0;
+}
+.specopsbutton:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .specopsbutton {
+    font-size: 24px;
+    min-width: 196px;
+  }
+}

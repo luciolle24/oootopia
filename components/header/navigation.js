@@ -21,7 +21,6 @@ function MainNavBar() {
     return (
             <NavBarUl>
                 <NavBarLi><Link href= "/">Home</Link></NavBarLi>
-                <NavBarLi><Link href= "/play">Play</Link></NavBarLi>
             </NavBarUl>
     )
 }

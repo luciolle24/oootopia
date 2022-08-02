@@ -1,4 +1,5 @@
-import styled from "styled-components";
+import styled from 'styled-components';
+import SpecOpsButton from '../components/buttons/button';
 const Box1 = styled.div`
   display: flex;
   flex-direction: row;
@@ -55,6 +56,11 @@ export default function Home() {
             great second pair of eyes on projects we are contacting to join our
             metaverse.
           </p>
+        </Box1_all>
+      </Box1>
+      <Box1>
+        <Box1_all>
+          <SpecOpsButton>Play Now</SpecOpsButton>
         </Box1_all>
       </Box1>
     </>
