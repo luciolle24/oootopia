@@ -28,7 +28,7 @@ export default function Home() {
           <h1>Who are we</h1>
           <p>
             Our team is fully doxxed. The founder of this project, is best known
-            as zuda, and discord is Zombiehacker. Zuda'&quot;s real name is Ryan
+            as zuda, and discord is Zombiehacker. Zuda&apos;s real name is Ryan
             Satterfield and lives in California, near LA. <br />
             <br />
             Oootopia kids is owned by Planet Zuda, LLC. Ryan Satterfield has
