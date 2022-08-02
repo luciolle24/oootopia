@@ -33,7 +33,7 @@ export default function Home() {
             <br />
             Oootopia kids is owned by Planet Zuda, LLC. Ryan Satterfield has
             been programming since he was 8 years old and is 36 years old, and
-            has been coding games and cyber security professionally since 2007.{' '}
+            has been coding games and cyber security professionally since 2007.
             <br />
             <br />
             Ryan Satterfield co-founded a search engine helping with homework
@@ -44,7 +44,7 @@ export default function Home() {
             character, but than his then 9 year old niece wanted a mommy poop, a
             daddy poop, and inspiration struck. Pooptopia was born. As an uncle
             who cares about what his niece and cousins play appropiate roblox
-            worlds, when they reached out complaining about the games available.{' '}
+            worlds, when they reached out complaining about the games available.
             <br />
             <br />
             Roblox is full of inappropriate games, our goal is to create a hand
